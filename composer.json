@@ -1,0 +1,19 @@
+{
+    "name": "tanja101212/logger",
+    "description": "A librar< to log data",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tanja101212\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tanja Schaffer",
+            "email": "tschaffer@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
